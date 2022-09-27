@@ -24,7 +24,8 @@ This installs following apps on mac system:
 ## Steps: ##
 1. Clone this repository <br/> `git clone https://github.com/anura9giri/on-boarding.git`
 2. Locate the repository on terminal <br/> `cd <Local repository path>`
-3. run `./on-boarding.sh`
+3. Make .sh file executable <br/> `chmod 755 on-boarding.sh`
+4. run `./on-boarding.sh`
 
 if you are not in sudoer list:
 follow these [steps](https://zwbetz.com/add-your-account-as-a-sudoer-on-mac/).
